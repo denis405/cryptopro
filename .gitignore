@@ -80,3 +80,5 @@ _[Ss]cripts
 *.cef
 *.vsp
 *.psess
+*.ide-shm
+*.ide-wal

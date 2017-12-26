@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPro.TestClient", "CryptoPro.TestClient\CryptoPro.TestClient.csproj", "{80B2441E-77F7-466B-A045-5CE60B406341}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPro.Cryptographic", "CryptoPro.Cryptographic\CryptoPro.Cryptographic.csproj", "{096434B3-4AA4-4045-A92C-528F4C02C565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoPro.Helpers", "CryptoPro.Helpers\CryptoPro.Helpers.csproj", "{BFC0DBD5-FF97-4AB1-8D95-50863F7A2F95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{80B2441E-77F7-466B-A045-5CE60B406341}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B2441E-77F7-466B-A045-5CE60B406341}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B2441E-77F7-466B-A045-5CE60B406341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096434B3-4AA4-4045-A92C-528F4C02C565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096434B3-4AA4-4045-A92C-528F4C02C565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096434B3-4AA4-4045-A92C-528F4C02C565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096434B3-4AA4-4045-A92C-528F4C02C565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC0DBD5-FF97-4AB1-8D95-50863F7A2F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC0DBD5-FF97-4AB1-8D95-50863F7A2F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC0DBD5-FF97-4AB1-8D95-50863F7A2F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC0DBD5-FF97-4AB1-8D95-50863F7A2F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
